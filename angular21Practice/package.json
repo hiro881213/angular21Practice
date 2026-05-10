@@ -10,7 +10,7 @@
     "serve:ssr:angular21Practice": "node dist/angular21Practice/server/server.mjs"
   },
   "private": true,
-  "packageManager": "npm@11.12.1",
+  "packageManager": "pnpm@11.0.9",
   "dependencies": {
     "@angular/common": "^21.2.0",
     "@angular/compiler": "^21.2.0",
